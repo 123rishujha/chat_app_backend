@@ -37,7 +37,7 @@ const io = require("socket.io")(server, {
   pingTimeout: 60000,
   cors: {
     // origin: `${process.env.frontendUrl}`
-    origin: `https://tghgg8-3000.csb.app`,
+    origin: `https://frontend-123rishujha.vercel.app`,
   },
 });
 
